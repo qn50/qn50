@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed Qahtan
-- 👀 I’m interested in programming
+- 👀 I’m interested in Computer science and programming
 - 🌱 I’m currently learning Machine Learning
 
 
